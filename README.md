@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushac123
 - 👀 I’m interested in Computer Networks and Robotics
-- 🌱 I’m currently learning P4+ML
+- 🌱 I’m currently learning Network Security, Wireless Ad-Hoc Network
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me piyush.chincholikar@gmail.com
 
